@@ -1,6 +1,8 @@
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
 en:
+  node:
+    only_author_use_powertag: "Error: only the author may use that powertag."
   dashboard:
     _activity:
       share_work: "Share your work"
@@ -141,3 +143,5 @@ en:
       comments_posted_52_weeks: "Comments posted for the past 52 weeks:"
       wiki_page_edits: "%{count} wiki page edits have been made, total"
       edits_per_week: "%{count} edits per week over the past year."
+
+      
